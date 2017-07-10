@@ -3,7 +3,7 @@
 Plugin Name: CF7 for Google Sheets
 Description: Cохранение почты в гугл таблицы
 Version: 0.1
-Author: Гаджибеков Арсен
+Author: Шаихов Тимурлан
 */
 
 require_once 'vendor/autoload.php';
